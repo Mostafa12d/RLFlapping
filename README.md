@@ -1,5 +1,8 @@
 **Flapping Bird SAC Agent demo**
-![Flappy Bird SAC Agent](sac.gif)
+![Flappy Bird SAC Agent](assets/sac.gif)
 
 **Flapping Bird TD3 Agent demo**
-![Flappy Bird TD3 Agent](td3gif.gif)
+![Flappy Bird TD3 Agent](assets/td3gif.gif)
+
+**Flapping Bird PPO Agent demo**
+![Flappy Bird PPO Agent](assets/PPO.gif)
